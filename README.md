@@ -1,6 +1,6 @@
 
 
-## Run locally
+## Run locally For Practice
 
 1. Install Node.js if it is not installed.
 2. Open this folder in VS Code.
